@@ -1,3 +1,4 @@
 pandas
 vnstock
 openpyxl
+ipykernel
